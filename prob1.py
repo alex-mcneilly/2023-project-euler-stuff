@@ -10,6 +10,7 @@ def three_five_sum(n):
   for num in range(1,n+1):
     if (num % 3 == 0) or (num % 5 == 0):
       sum += num
+      # adds sum if multiple of 3 or multiple of 5
       
   return (sum-n)
 
