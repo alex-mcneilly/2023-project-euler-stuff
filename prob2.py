@@ -5,7 +5,7 @@
 
 # 
 
-def even_fibonacci(n):
+def even_fibonacci(i):
   return 0
 
 my_sum = even_fibonacci(10)
