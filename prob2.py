@@ -5,9 +5,9 @@
 
 # 
 
-def function_name(n):
+def even_fibonacci(n):
   return 0
 
-my_sum = function_name(10)
+my_sum = even_fibonacci(10)
 
 print(my_sum)
