@@ -1,7 +1,7 @@
 # Alex Mcneilly
 
-# 
-# 
+# Even Fibonacci Numbers
+# We want to find every even-valued fibonacci term from 0 to 4 million and then sum them
 
 # 
 
