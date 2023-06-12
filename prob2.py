@@ -6,6 +6,7 @@
 # 
 
 def even_fibonacci(i):
+  sum = 0
   return 0
 
 my_sum = even_fibonacci(10)
