@@ -6,6 +6,7 @@
 
 def largest_prime(i):
   prime_factors = []
+  sum = 0
   return 0
 
 my_sum = largest_prime(10)
