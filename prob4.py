@@ -3,7 +3,7 @@
 # The
 # 
 
-# This problem was completed on
+# This problem was completed on July [], 2023
  
 
 def my_function(i):
