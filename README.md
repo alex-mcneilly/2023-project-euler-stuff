@@ -8,9 +8,9 @@ So far I have completed in Python
 
 
 So far I have completed in C++
-1.
-2.
-3.
+1. Multiples of 3 and 5
+2. 
 
 
 So far I have completed in OCaml
+1. Multiples of 3 and 5
