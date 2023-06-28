@@ -4,7 +4,9 @@ My solutions for Project Euler problems. A problem a day keeps the brain fog awa
 So far I have completed in Python
 1. Multiples of 3 and 5
 2. 
-3.
+3. n
+4. Largest Palindrome Product
+5. Smallest Multiple
 
 
 So far I have completed in C++
