@@ -3,8 +3,6 @@
 # Even Fibonacci Numbers
 # We want to find every even-valued fibonacci term from 0 to 4 million and then sum them
 
-# 
-
 def even_fibonacci(i):
   even_fib = []
   sum = 0
